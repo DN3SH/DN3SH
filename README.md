@@ -1,6 +1,6 @@
-![readme](https://github.com/DN3SH/DN3SH/assets/106310803/ed94810d-1c63-484c-8c4d-4997d2ea0dc8)
+![pixel-jeff-matrix-s](https://github.com/DN3SH/DN3SH/assets/106310803/c0186314-fe84-42d3-820e-71ac88487743)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'M Dinesh N
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Dinesh N
 ================================================================================================================================
 
 UI/UX Designer
